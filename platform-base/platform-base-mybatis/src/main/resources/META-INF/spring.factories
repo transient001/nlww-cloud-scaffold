@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ com.nlww.platform.base.mybatis.config.IdWorkConfig,\
+ com.nlww.platform.base.mybatis.config.MybatisAutoConfiguration
